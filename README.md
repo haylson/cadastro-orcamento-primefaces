@@ -1,5 +1,7 @@
 # cadastro-orcamento-primefaces
+
 Autor: Haylson Martins
+
 Cadastro Tela Mestre-detalhe de Orçamentos e Itens de Orçamento
 
 Projeto base para um projeto novo, tela mestre-detalhe utilizando componentes primefaces e obedecendo a responsividade para dispositivos com telas menores.
