@@ -1,13 +1,17 @@
 # cadastro-orcamento-primefaces
-Cadastro Mestre-detalhe de Orçamentos e Itens de Orçamento
+Autor: Haylson Martins
+Cadastro Tela Mestre-detalhe de Orçamentos e Itens de Orçamento
 
-Projeto base para um projeto novo, tela mestre-detalhe utilizando primefaces e obedecendo a responsividade para dispositivos com telas menores.
+Projeto base para um projeto novo, tela mestre-detalhe utilizando componentes primefaces e obedecendo a responsividade para dispositivos com telas menores.
 
-Tecnologias:
+Tecnologias/Outros:
 
-JSF 2.2
-MAVEN (Dependency Manager)
-JPA/Hibernate
-CDI (IoC/DI)
-PrimeFaces
-MySQL
+Java 8,
+JSF 2.2,
+MAVEN (Dependency Manager),
+JPA/Hibernate,
+CDI/Weld 2.4.1 (IoC/DI),
+PrimeFaces 6.0,
+MySQL 5.1,
+Tomcat 8,
+MVC (Arquitetura)
